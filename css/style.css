@@ -330,6 +330,7 @@ section {
 /* --------- 2.2 Logo ---------- */
 
 #logo {
+  font-size: 20px;
     float: left;
     height: 71px;
     line-height: 66px;
@@ -2326,7 +2327,3 @@ blockquote {
     }
 
 }
-
-
-
-
